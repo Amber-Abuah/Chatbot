@@ -28,7 +28,7 @@
          "patterns": ["good", "amazing", "great", "fantastic"],
          "responses": ["Excellent to hear!", "Incredible!"],
          "context_set": ""
-        }
+        },
         {"tag": "negative",
          "patterns": ["bad", "awful", "sad"],
          "responses": ["I'm so sorry to hear that.", "That's a shame."],
